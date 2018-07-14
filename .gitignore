@@ -1,0 +1,5 @@
+*.[oa]
+http2fileextractor
+pcaps/
+*.pcap*
+*.cap*
